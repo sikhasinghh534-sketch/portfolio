@@ -6,60 +6,69 @@ const Contact = () => {
     <div className="contact-section section-container" id="contact">
       <div className="contact-container">
         <h3>Contact</h3>
+
         <div className="contact-flex">
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:piyushshri253@mail.com" data-cursor="disable">
-                Piyushshri253@mail.com
+              <a href="mailto:vectorsagar@gmail.com" data-cursor="disable">
+                vectorsagar@gmail.com
               </a>
             </p>
+
             <h4>Phone</h4>
             <p>
-              <a href="tel:+919205876880" data-cursor="disable">
-                +91 9205876880
+              <a href="tel:+918076057313" data-cursor="disable">
+                +91 8076057313
               </a>
             </p>
           </div>
+
           <div className="contact-box">
             <h4>Social</h4>
+
             <a
-              href="https://github.com/piyushshri253-arch"
+              href="https://www.linkedin.com/in/sagar-ramola-448808141/"
               target="_blank"
+              rel="noopener noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
-              Github <MdArrowOutward />
+              LinkedIn <MdArrowOutward />
             </a>
+
+            {/* Add remaining links when available */}
             <a
-              href="https://www.linkedin.com/in/piyush-shrivastav-146532213/"
-              target="_blank"
+              href="#"
               data-cursor="disable"
               className="contact-social"
             >
-              Linkedin <MdArrowOutward />
+              Portfolio <MdArrowOutward />
             </a>
+
             <a
-              href="https://x.com"
-              target="_blank"
+              href="#"
               data-cursor="disable"
               className="contact-social"
             >
-              Twitter <MdArrowOutward />
+              Google Ads Profile <MdArrowOutward />
             </a>
+
             <a
-              href="https://www.instagram.com"
-              target="_blank"
+              href="#"
               data-cursor="disable"
               className="contact-social"
             >
-              Instagram <MdArrowOutward />
+              Meta Ads Portfolio <MdArrowOutward />
             </a>
           </div>
+
           <div className="contact-box">
             <h2>
-            FullStack Developer<br /> by <span>Piyush srivastava</span>
+              Digital Marketing <br />
+              Specialist by <span>Sagar Ramola</span>
             </h2>
+
             <h5>
               <MdCopyright /> 2026
             </h5>

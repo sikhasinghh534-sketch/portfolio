@@ -14,62 +14,92 @@ const Career = () => {
             <div className="career-dot"></div>
           </div>
 
-          {/* ✅ Current Role */}
+          {/* Current Role */}
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full-Stack Developer</h4>
-                <h5>Securium Solutions Pvt Ltd</h5>
+                <h4>Digital Marketing Assistant Manager</h4>
+                <h5>Star Infomatic Pvt. Ltd.</h5>
               </div>
-              <h3>Oct 2024 – Present</h3>
+              <h3>May 2022 – Present</h3>
             </div>
             <p>
-              Built and maintained full-stack web applications using React.js,
-              Vue.js, Django, and PHP. Designed and implemented secure JWT-based
-              REST APIs with role-based authentication. Collaborated with
-              cybersecurity teams to identify and fix vulnerabilities following
-              OWASP practices. Managed cloud deployments using DigitalOcean,
-              Docker, and GitHub Actions CI/CD. Developed internal dashboards
-              and automation tools to improve efficiency and reduce manual work,
-              while also mentoring junior developers and conducting code reviews.
+              Leading end-to-end digital marketing campaigns across Google Ads,
+              Meta Ads, LinkedIn Ads, YouTube Ads, and social media platforms.
+              Managing SEO, SEM, email marketing, WhatsApp marketing, lead
+              generation, audience targeting, campaign optimization, and a team
+              of marketing professionals to improve brand visibility, lead
+              quality, and business growth through data-driven strategies.
             </p>
           </div>
 
-          {/* ✅ Previous Role */}
+          {/* Previous Role */}
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Front-End Developer</h4>
-                <h5>Digital Rubix</h5>
+                <h4>Digital Marketing Sr. Executive</h4>
+                <h5>Realty Assistant</h5>
               </div>
-              <h3>Aug 2022 – Sep 2024</h3>
+              <h3>Mar 2020 – Apr 2022</h3>
             </div>
             <p>
-              Delivered 200+ responsive and SEO-optimized landing pages using
-              HTML, CSS, and JavaScript. Converted Figma and PSD designs into
-              pixel-perfect, high-performance UI components. Improved website
-              performance using lazy loading and code splitting techniques.
-              Integrated third-party services like Stripe, HubSpot, and Google
-              Analytics, while collaborating closely with backend teams and
-              participating in agile development cycles.
+              Managed SEO, Google Ads, Facebook & Instagram marketing, content
+              planning, social media management, and online reputation building.
+              Developed SEO strategies, optimized websites for higher rankings,
+              managed CRM & ERP systems, and executed high-performing digital
+              campaigns to increase website traffic and customer engagement.
             </p>
           </div>
 
-          {/* ✅ Current Focus */}
+          {/* Earlier Experience */}
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Continuous Growth</h5>
+                <h4>Digital Marketing Executive</h4>
+                <h5>Acreaty Management Consultant Pvt. Ltd.</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>May 2018 – Feb 2020</h3>
             </div>
             <p>
-              Currently focused on building scalable and high-performance web
-              applications, improving backend architecture, and exploring modern
-              cloud and DevOps technologies. Continuously learning and applying
-              best practices to deliver efficient and reliable software
-              solutions.
+              Executed SEO, Google Ads, Facebook Ads, and social media
+              marketing campaigns for multiple clients. Managed on-page &
+              off-page SEO, keyword research, content optimization, and Google
+              Maps rankings while improving online visibility and generating
+              quality business leads.
+            </p>
+          </div>
+
+          {/* First Job */}
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>SEO Specialist</h4>
+                <h5>Pcpatchers Technologies Pvt. Ltd.</h5>
+              </div>
+              <h3>Aug 2017 – May 2018</h3>
+            </div>
+            <p>
+              Implemented SEO strategies, created backlink campaigns, monitored
+              website performance, and improved search engine rankings through
+              technical optimization, keyword analysis, and content
+              enhancements.
+            </p>
+          </div>
+
+          {/* Internship */}
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Digital Marketing Intern</h4>
+                <h5>Woxa Technologies Pvt. Ltd.</h5>
+              </div>
+              <h3>Jan 2017 – Aug 2017</h3>
+            </div>
+            <p>
+              Started my digital marketing career by working on SEO, backlink
+              creation, keyword research, and organic growth strategies. Helped
+              improve website traffic and search engine visibility while gaining
+              hands-on experience in real-world digital marketing projects.
             </p>
           </div>
         </div>

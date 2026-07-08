@@ -5,42 +5,42 @@ const Landing = ({ children }: PropsWithChildren) => {
   return (
     <div className="landing-section" id="landingDiv">
       <div className="landing-container">
-        
+
         <div className="landing-intro">
           <h2 className="fade-in">Hello! I'm</h2>
+
           <h1 className="slide-up">
-            Piyush 
+            Sagar
             <br />
-            <span>Srivastava</span>
+            <span>Ramola</span>
           </h1>
         </div>
 
         <div className="landing-info">
-          <h3 className="fade-in-delay">A Creative</h3>
+          <h3 className="fade-in-delay">A Results-Driven</h3>
 
           <h2 className="landing-info-h2">
-            <div className="landing-h2-1">Full Stack</div>
-            <div className="landing-h2-2">Developer</div>
+            <div className="landing-h2-1">Digital Marketing</div>
+            <div className="landing-h2-2">Specialist</div>
           </h2>
 
           <h2>
-            <div className="landing-h2-info">Developer</div>
-            <div className="landing-h2-info-1">Engineer</div>
+            <div className="landing-h2-info">Performance Marketer</div>
+            <div className="landing-h2-info-1">SEO Expert</div>
           </h2>
 
-          {/* 🔥 Resume + Hire Me Buttons */}
-        {/* ✅ BUTTONS */}
+          {/* Buttons */}
           <div className="landing-buttons">
             <a
-              href="/image/piyush.pdf"
-              download="Piyush_Resume.pdf"
+              href="/image/Sagar-Ramola-Resume.pdf"
+              download="Sagar_Ramola_Resume.pdf"
               className="btn-primary"
             >
               ⬇ Download Resume
             </a>
 
             <a href="#contact" className="btn-secondary">
-              Hire Me
+              Let's Connect
             </a>
           </div>
         </div>

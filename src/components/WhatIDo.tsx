@@ -11,14 +11,12 @@ const WhatIDo = () => {
 
     const isActive = current.classList.contains("what-content-active");
 
-    // reset all
     containerRef.current.forEach((el) => {
       if (el) {
         el.classList.remove("what-content-active", "what-sibling");
       }
     });
 
-    // toggle only if not already active
     if (!isActive) {
       current.classList.add("what-content-active");
 
@@ -46,61 +44,68 @@ const WhatIDo = () => {
       <div className="what-box">
         <div className="what-box-in">
 
-          {/* FRONTEND */}
+          {/* PERFORMANCE MARKETING */}
           <div
             className="what-content"
             ref={(el) => (containerRef.current[0] = el)}
             onClick={() => handleClick(0)}
           >
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
+              <h3>PERFORMANCE MARKETING</h3>
               <h4>What I Do</h4>
+
               <p>
-                I build responsive, fast, and interactive user interfaces using
-                modern frontend technologies. My focus is on performance,
-                scalability, and clean UI/UX to deliver seamless user
-                experiences.
+                I create and optimize high-performing paid advertising campaigns
+                across Google Ads, Meta Ads, LinkedIn Ads, and YouTube Ads.
+                My focus is on maximizing ROI, generating quality leads,
+                increasing conversions, and scaling business growth through
+                data-driven marketing strategies.
               </p>
 
-              <h5>Tech Stack</h5>
+              <h5>Expertise</h5>
+
               <div className="what-content-flex">
-                <div className="what-tags">React</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">Vue</div>
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">HTML</div>
-                <div className="what-tags">CSS</div>
-                <div className="what-tags">GSAP</div>
+                <div className="what-tags">Google Ads</div>
+                <div className="what-tags">Meta Ads</div>
+                <div className="what-tags">LinkedIn Ads</div>
+                <div className="what-tags">YouTube Ads</div>
+                <div className="what-tags">SEM</div>
+                <div className="what-tags">Remarketing</div>
+                <div className="what-tags">A/B Testing</div>
+                <div className="what-tags">Conversion Tracking</div>
               </div>
             </div>
           </div>
 
-          {/* BACKEND */}
+          {/* DIGITAL MARKETING */}
           <div
             className="what-content"
             ref={(el) => (containerRef.current[1] = el)}
             onClick={() => handleClick(1)}
           >
             <div className="what-content-in">
-              <h3>BACKEND</h3>
+              <h3>DIGITAL MARKETING</h3>
               <h4>What I Do</h4>
+
               <p>
-                I develop secure and scalable backend systems, design REST APIs,
-                and manage databases. I focus on efficient server-side logic and
-                seamless integration with frontend applications.
+                I help brands grow their online presence through SEO, Social
+                Media Marketing, Email Marketing, Content Marketing, WhatsApp
+                Marketing, and Lead Generation. I build marketing strategies
+                that increase visibility, engagement, and long-term business
+                growth.
               </p>
 
-              <h5>Tech Stack</h5>
+              <h5>Expertise</h5>
+
               <div className="what-content-flex">
-                <div className="what-tags">Django</div>
-                <div className="what-tags">REST API</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">Docker</div>
-                <div className="what-tags">GitHub</div>
-                <div className="what-tags">DigitalOcean</div>
+                <div className="what-tags">SEO</div>
+                <div className="what-tags">Social Media Marketing</div>
+                <div className="what-tags">Content Marketing</div>
+                <div className="what-tags">Email Marketing</div>
+                <div className="what-tags">WhatsApp Marketing</div>
+                <div className="what-tags">Lead Generation</div>
+                <div className="what-tags">Google Analytics</div>
+                <div className="what-tags">Market Research</div>
               </div>
             </div>
           </div>
