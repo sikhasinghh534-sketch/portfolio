@@ -9,57 +9,45 @@ const projects = [
     category: "Performance Marketing & Brand Growth",
     tools:
       "Google Ads • Meta Ads • LinkedIn Ads • YouTube Ads • SEO • SEM • Email Marketing • WhatsApp Marketing",
-    image: "/images/star-infomatic.png",
+    image: "/images/image1.jpg",
   },
   {
     title: "Realty Assistant",
     category: "Real Estate Digital Marketing",
     tools:
       "SEO • Google Ads • Facebook Ads • Instagram Marketing • CRM • Social Media Strategy",
-    image: "/images/realty-assistant.png",
+    image: "/images/image2.jpg",
   },
   {
     title: "Acreaty Management Consultant",
     category: "Recruitment & Corporate Marketing",
     tools:
       "SEO • Google Ads • Meta Ads • Content Marketing • Lead Generation • Google Maps SEO",
-    image: "/images/acreaty.png",
+    image: "/images/image3.jpg",
   },
   {
     title: "DataTrained",
     category: "EdTech Marketing Campaign",
     tools:
       "Performance Marketing • Google Ads • Meta Ads • Analytics • Conversion Optimization",
-    image: "/images/datatrained.png",
+    image: "/images/image4.jpg",
   },
   {
     title: "AfricaOnJobs",
     category: "International Job Portal",
     tools:
       "SEO • SEM • Organic Growth • Keyword Research • Content Strategy",
-    image: "/images/africaonjobs.png",
+    image: "/images/image5.jpg",
   },
-  {
-    title: "IndiaOnJobs",
-    category: "Recruitment Portal",
-    tools:
-      "SEO • Google Ads • Lead Generation • Social Media Marketing",
-    image: "/images/indiaonjobs.png",
-  },
+ 
   {
     title: "HotelYaari",
     category: "Hospitality Marketing",
     tools:
       "SEO • Google Business Profile • Social Media Marketing • Content Marketing",
-    image: "/images/hotelyaari.png",
+    image: "/images/image6.jpg",
   },
-  {
-    title: "IIDST",
-    category: "Educational Organization",
-    tools:
-      "Website SEO • Google Ads • Lead Generation • Performance Marketing",
-    image: "/images/iidst.png",
-  },
+  
 ];
 
 const Work = () => {

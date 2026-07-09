@@ -13,12 +13,12 @@ import {
 
 const textureLoader = new THREE.TextureLoader();
 const imageUrls = [
-  "/images/react2.webp",
-  "/images/next2.webp",
-  "/images/node2.webp",
-  "/images/express.webp",
-  "/images/mongo.webp",
-  "/images/mysql.webp",
+  "/images/capcut-logo-on-transparent-white-background-free-vector.jpg",
+  "/images/chatgpt-logo-svg-png-eps-pdf-ai-free-download.jpg",
+  "/images/google-gemini-logo-png_seeklogo-515013",
+  "/images/HubSpot_Logo.jpg",
+  "/images/images (1).jpg",
+  "/images/images (1).jpg",
   "/images/typescript.webp",
   "/images/javascript.webp",
 ];

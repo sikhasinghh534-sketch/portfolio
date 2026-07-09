@@ -7,18 +7,18 @@ const About = () => {
         <h3 className="title">About Me</h3>
 
         <p className="para">
-          I’m <strong>Sagar Ramola</strong>, a results-driven Digital Marketing
-          & Performance Marketing Specialist with over <strong>9 years of experience</strong>
-          in creating and executing high-impact digital marketing strategies.
-          My expertise includes Performance Marketing, SEO, SEM, Social Media
-          Marketing, Email Marketing, Content Marketing, and Lead Generation.
-          I specialize in managing and optimizing campaigns across Google Ads,
-          Meta Ads (Facebook & Instagram), LinkedIn Ads, YouTube Ads, and
-          Display Networks to maximize ROI, generate qualified leads, and drive
-          measurable business growth. I’m passionate about data-driven
-          marketing, campaign optimization, audience targeting, and helping
-          brands build a strong digital presence through innovative and
-          result-oriented strategies.
+          I’m <strong>Sagar Ramola</strong>, a passionate Digital Marketing
+          Professional, Growth Strategist, and Performance Marketing Specialist
+          with over <strong>9+ years of experience</strong> in building brands,
+          generating qualified leads, and driving measurable business growth.
+          My expertise includes <strong>SEO, GEO, AIO, AEO, Google Ads, Meta Ads,
+          LinkedIn Marketing, Content Strategy, Social Media Marketing,
+          Website Optimization, AI-powered Marketing, and Marketing
+          Analytics</strong>. I enjoy solving business challenges by combining
+          strategic thinking, a deep understanding of customer behavior, and
+          innovative digital solutions. For me, marketing is not measured by
+          impressions or clicks alone—it is measured by business outcomes,
+          customer acquisition, profitability, and long-term brand value.
         </p>
       </div>
     </div>

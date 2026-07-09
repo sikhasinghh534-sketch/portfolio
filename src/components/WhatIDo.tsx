@@ -44,22 +44,53 @@ const WhatIDo = () => {
       <div className="what-box">
         <div className="what-box-in">
 
-          {/* PERFORMANCE MARKETING */}
+          {/* GROWTH MARKETING */}
           <div
             className="what-content"
             ref={(el) => (containerRef.current[0] = el)}
             onClick={() => handleClick(0)}
           >
             <div className="what-content-in">
+              <h3>GROWTH MARKETING</h3>
+              <h4>What I Do</h4>
+
+              <p>
+                Build sustainable business growth through SEO, GEO, AIO, AEO,
+                Content Marketing, Social Media Strategy, and Website
+                Optimization—creating long-term visibility, authority, and
+                qualified lead generation.
+              </p>
+
+              <h5>Expertise</h5>
+
+              <div className="what-content-flex">
+                <div className="what-tags">SEO</div>
+                <div className="what-tags">GEO</div>
+                <div className="what-tags">AIO</div>
+                <div className="what-tags">AEO</div>
+                <div className="what-tags">Content Marketing</div>
+                <div className="what-tags">Social Media Strategy</div>
+                <div className="what-tags">Website Optimization</div>
+                <div className="what-tags">Lead Generation</div>
+              </div>
+            </div>
+          </div>
+
+          {/* PERFORMANCE MARKETING */}
+          <div
+            className="what-content"
+            ref={(el) => (containerRef.current[1] = el)}
+            onClick={() => handleClick(1)}
+          >
+            <div className="what-content-in">
               <h3>PERFORMANCE MARKETING</h3>
               <h4>What I Do</h4>
 
               <p>
-                I create and optimize high-performing paid advertising campaigns
-                across Google Ads, Meta Ads, LinkedIn Ads, and YouTube Ads.
-                My focus is on maximizing ROI, generating quality leads,
-                increasing conversions, and scaling business growth through
-                data-driven marketing strategies.
+                Execute and optimize high-performing campaigns across Google Ads,
+                Meta Ads, YouTube Ads, and LinkedIn Ads using data-driven
+                targeting, audience segmentation, and continuous optimization to
+                maximize ROI, conversions, and revenue growth.
               </p>
 
               <h5>Expertise</h5>
@@ -67,45 +98,12 @@ const WhatIDo = () => {
               <div className="what-content-flex">
                 <div className="what-tags">Google Ads</div>
                 <div className="what-tags">Meta Ads</div>
-                <div className="what-tags">LinkedIn Ads</div>
                 <div className="what-tags">YouTube Ads</div>
-                <div className="what-tags">SEM</div>
-                <div className="what-tags">Remarketing</div>
-                <div className="what-tags">A/B Testing</div>
-                <div className="what-tags">Conversion Tracking</div>
-              </div>
-            </div>
-          </div>
-
-          {/* DIGITAL MARKETING */}
-          <div
-            className="what-content"
-            ref={(el) => (containerRef.current[1] = el)}
-            onClick={() => handleClick(1)}
-          >
-            <div className="what-content-in">
-              <h3>DIGITAL MARKETING</h3>
-              <h4>What I Do</h4>
-
-              <p>
-                I help brands grow their online presence through SEO, Social
-                Media Marketing, Email Marketing, Content Marketing, WhatsApp
-                Marketing, and Lead Generation. I build marketing strategies
-                that increase visibility, engagement, and long-term business
-                growth.
-              </p>
-
-              <h5>Expertise</h5>
-
-              <div className="what-content-flex">
-                <div className="what-tags">SEO</div>
-                <div className="what-tags">Social Media Marketing</div>
-                <div className="what-tags">Content Marketing</div>
-                <div className="what-tags">Email Marketing</div>
-                <div className="what-tags">WhatsApp Marketing</div>
-                <div className="what-tags">Lead Generation</div>
-                <div className="what-tags">Google Analytics</div>
-                <div className="what-tags">Market Research</div>
+                <div className="what-tags">LinkedIn Ads</div>
+                <div className="what-tags">Audience Targeting</div>
+                <div className="what-tags">Segmentation</div>
+                <div className="what-tags">Conversion Optimization</div>
+                <div className="what-tags">ROI Growth</div>
               </div>
             </div>
           </div>

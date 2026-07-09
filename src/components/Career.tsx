@@ -24,12 +24,13 @@ const Career = () => {
               <h3>May 2022 – Present</h3>
             </div>
             <p>
-              Leading end-to-end digital marketing campaigns across Google Ads,
-              Meta Ads, LinkedIn Ads, YouTube Ads, and social media platforms.
-              Managing SEO, SEM, email marketing, WhatsApp marketing, lead
-              generation, audience targeting, campaign optimization, and a team
-              of marketing professionals to improve brand visibility, lead
-              quality, and business growth through data-driven strategies.
+              Developed and executed integrated digital marketing strategies
+              across SEO, paid advertising, social media, email marketing, and
+              website optimization to strengthen brand visibility and drive
+              qualified lead generation. Managed high-performing campaigns on
+              Google Ads, Meta Ads, and LinkedIn while collaborating closely
+              with sales and product teams to align marketing initiatives with
+              business objectives and maximize overall marketing performance.
             </p>
           </div>
 
@@ -43,11 +44,13 @@ const Career = () => {
               <h3>Mar 2020 – Apr 2022</h3>
             </div>
             <p>
-              Managed SEO, Google Ads, Facebook & Instagram marketing, content
-              planning, social media management, and online reputation building.
-              Developed SEO strategies, optimized websites for higher rankings,
-              managed CRM & ERP systems, and executed high-performing digital
-              campaigns to increase website traffic and customer engagement.
+              Led end-to-end digital marketing initiatives, including SEO,
+              Google Ads, Meta Ads, Content Marketing, Social Media Management,
+              and Online Reputation Management (ORM). Developed and executed
+              data-driven marketing strategies, optimized website performance,
+              managed CRM & ERP platforms, and delivered campaigns that
+              increased online visibility, qualified leads, and customer
+              engagement.
             </p>
           </div>
 
@@ -61,15 +64,16 @@ const Career = () => {
               <h3>May 2018 – Feb 2020</h3>
             </div>
             <p>
-              Executed SEO, Google Ads, Facebook Ads, and social media
-              marketing campaigns for multiple clients. Managed on-page &
-              off-page SEO, keyword research, content optimization, and Google
-              Maps rankings while improving online visibility and generating
-              quality business leads.
+              Managed multi-channel digital marketing campaigns across SEO,
+              Google Ads, Meta Ads, and Social Media for diverse clients.
+              Executed on-page and off-page SEO, keyword research, content
+              optimization, and local SEO strategies to improve search rankings,
+              enhance online visibility, and generate high-quality business
+              leads.
             </p>
           </div>
 
-          {/* First Job */}
+          {/* SEO Specialist */}
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
@@ -79,10 +83,11 @@ const Career = () => {
               <h3>Aug 2017 – May 2018</h3>
             </div>
             <p>
-              Implemented SEO strategies, created backlink campaigns, monitored
-              website performance, and improved search engine rankings through
-              technical optimization, keyword analysis, and content
-              enhancements.
+              Executed technical and on-page SEO strategies, conducted keyword
+              research, built high-quality backlinks, and optimized website
+              performance. Improved organic search visibility, enhanced website
+              rankings, and monitored performance using analytics and SEO
+              reporting tools.
             </p>
           </div>
 
@@ -96,10 +101,11 @@ const Career = () => {
               <h3>Jan 2017 – Aug 2017</h3>
             </div>
             <p>
-              Started my digital marketing career by working on SEO, backlink
-              creation, keyword research, and organic growth strategies. Helped
-              improve website traffic and search engine visibility while gaining
-              hands-on experience in real-world digital marketing projects.
+              Built a strong foundation in digital marketing by supporting SEO,
+              keyword research, backlink building, content optimization, and
+              website analysis. Assisted in improving organic search performance
+              while gaining hands-on experience with industry-standard digital
+              marketing tools and best practices.
             </p>
           </div>
         </div>
