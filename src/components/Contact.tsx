@@ -46,21 +46,21 @@ const Contact = () => {
               Portfolio <MdArrowOutward />
             </a>
 
-            <a
+            {/* <a
               href="#"
               data-cursor="disable"
               className="contact-social"
             >
               Google Ads Profile <MdArrowOutward />
-            </a>
+            </a> */}
 
-            <a
+            {/* <a
               href="#"
               data-cursor="disable"
               className="contact-social"
             >
               Meta Ads Portfolio <MdArrowOutward />
-            </a>
+            </a> */}
           </div>
 
           <div className="contact-box">

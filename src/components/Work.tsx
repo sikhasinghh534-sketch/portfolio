@@ -16,28 +16,28 @@ const projects = [
     category: "Real Estate Digital Marketing",
     tools:
       "SEO • Google Ads • Facebook Ads • Instagram Marketing • CRM • Social Media Strategy",
-    image: "/images/image2.jpg",
+    image: "/images/a4.jpg.jpeg",
   },
   {
     title: "Acreaty Management Consultant",
     category: "Recruitment & Corporate Marketing",
     tools:
       "SEO • Google Ads • Meta Ads • Content Marketing • Lead Generation • Google Maps SEO",
-    image: "/images/image3.jpg",
+    image: "/images/a2.jpg.jpeg",
   },
   {
     title: "DataTrained",
     category: "EdTech Marketing Campaign",
     tools:
       "Performance Marketing • Google Ads • Meta Ads • Analytics • Conversion Optimization",
-    image: "/images/image4.jpg",
+    image: "/images/a6.jpg.jpeg",
   },
   {
     title: "AfricaOnJobs",
     category: "International Job Portal",
     tools:
       "SEO • SEM • Organic Growth • Keyword Research • Content Strategy",
-    image: "/images/image5.jpg",
+    image: "/images/a5.jpg.jpeg",
   },
  
   {
@@ -45,7 +45,7 @@ const projects = [
     category: "Hospitality Marketing",
     tools:
       "SEO • Google Business Profile • Social Media Marketing • Content Marketing",
-    image: "/images/image6.jpg",
+    image: "/images/a1.jpg.jpeg",
   },
   
 ];
