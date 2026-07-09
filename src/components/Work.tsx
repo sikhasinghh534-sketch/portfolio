@@ -23,21 +23,21 @@ const projects = [
     category: "Recruitment & Corporate Marketing",
     tools:
       "SEO • Google Ads • Meta Ads • Content Marketing • Lead Generation • Google Maps SEO",
-    image: "/images/a2.jpg.jpeg",
+    image: "/images/a6.jpg.jpeg",
   },
   {
     title: "DataTrained",
     category: "EdTech Marketing Campaign",
     tools:
       "Performance Marketing • Google Ads • Meta Ads • Analytics • Conversion Optimization",
-    image: "/images/a6.jpg.jpeg",
+    image: "/images/a5.jpg.jpeg",
   },
   {
     title: "AfricaOnJobs",
     category: "International Job Portal",
     tools:
       "SEO • SEM • Organic Growth • Keyword Research • Content Strategy",
-    image: "/images/a5.jpg.jpeg",
+    image: "/images/a2.jpg.jpeg",
   },
  
   {

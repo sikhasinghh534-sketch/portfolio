@@ -75,7 +75,7 @@ const SocialIcons = () => {
           </a>
         </span>
         <span>
-          <a href="https://www.instagram.com" target="_blank">
+          <a href="https://www.instagram.com/sagar_ramola_/" target="_blank">
             <FaInstagram />
           </a>
         </span>
