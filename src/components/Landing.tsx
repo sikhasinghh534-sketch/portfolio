@@ -31,13 +31,13 @@ const Landing = ({ children }: PropsWithChildren) => {
 
           {/* Buttons */}
           <div className="landing-buttons">
-            <a
-              href="/image/Sagar-Ramola-Resume.pdf"
-              download="Sagar_Ramola_Resume.pdf"
-              className="btn-primary"
-            >
-              ⬇ Download Resume
-            </a>
+           <a
+  href="/resume/sagar.pdf.pdf"
+  download="Sagar_Ramola_Resume.pdf"
+  className="btn-primary"
+>
+  ⬇ Download Resume
+</a>
 
             <a href="#contact" className="btn-secondary">
               Let's Connect

@@ -60,12 +60,12 @@ const SocialIcons = () => {
     <div className="icons-section">
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
-          <a href="https://github.com/piyushshri253-arch" target="_blank">
+          <a href="#" target="_blank">
             <FaGithub />
           </a>
         </span>
         <span>
-          <a href="https://www.linkedin.com/in/piyush-shrivastav-146532213/" target="_blank">
+          <a href="#" target="_blank">
             <FaLinkedinIn />
           </a>
         </span>
@@ -80,7 +80,7 @@ const SocialIcons = () => {
           </a>
         </span>
       </div>
-      <a className="resume-button" href="#">
+      <a className="resume-button" href="./resume/sagar.pdf">
         <HoverLinks text="RESUME" />
         <span>
           <TbNotes />
