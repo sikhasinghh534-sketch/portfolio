@@ -13,14 +13,32 @@ import {
 
 const textureLoader = new THREE.TextureLoader();
 const imageUrls = [
-  "/images/capcut-logo-on-transparent-white-background-free-vector.jpg",
-  "/images/chatgpt-logo-svg-png-eps-pdf-ai-free-download.jpg",
-  "/images/google-gemini-logo-png_seeklogo-515013",
-  "/images/HubSpot_Logo.jpg",
-  "/images/images (1).jpg",
-  "/images/images (1).jpg",
-  "/images/typescript.webp",
-  "/images/javascript.webp",
+  "/images/01.jpg.jpeg",
+  "/images/02.jpg.jpeg",
+
+  "/images/03.jpg.jpeg",
+
+  "/images/04.jpg.jpeg",
+
+  "/images/05.jpg.jpeg",
+
+  "/images/06.jpg.jpeg",
+
+  "/images/07.jpg.jpeg",
+
+  "/images/08.jpg.jpeg",
+
+  "/images/09.jpg.jpeg",
+
+  "/images/10.jpg.jpeg",
+
+  "/images/11.jpg.jpeg",
+
+  "/images/012.jpg.jpeg",
+   
+
+
+  
 ];
 const textures = imageUrls.map((url) => textureLoader.load(url));
 
